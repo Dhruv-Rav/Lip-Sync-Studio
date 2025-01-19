@@ -1,5 +1,3 @@
-# my-flask-app/my-flask-app/README.md
-
 # Lip-Sync Studio
 
 Lip-Sync Studio is a modern, responsive web application that allows users to upload an image and an audio file to generate a lip-synced video. The application is built using Flask for the backend and a dark-themed, AI-tech inspired frontend.
