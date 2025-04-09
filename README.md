@@ -57,10 +57,15 @@ my-flask-app
 
 ## Running the Application
 
-To run the application, use the following command:
+1. Navigate to the root directory of your project
+2. Set the FLASK_APP environment variable to point to the app package:
 ```
-flask run
+set FLASK_APP=app
 ```
+3. Run the Flask application from the root directory:
+   ```
+   flask run
+   ```
 
 The application will be accessible at `http://127.0.0.1:5000`.
 
